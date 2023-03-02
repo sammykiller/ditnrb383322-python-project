@@ -1,2 +1,2 @@
-# ditnrb383322-python-project
+# guessing game
 assignment python
